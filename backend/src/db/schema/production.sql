@@ -66,3 +66,10 @@ VALUES
   (57, 'fashion-7-full.jpg', 'fashion-7-regular.jpg', 'Toronto', 'Canada', 7, 5),
   (58, 'fashion-8-full.jpg', 'fashion-8-regular.jpg', 'Vancouver', 'Canada', 8, 5),
   (59, 'fashion-9-full.jpg', 'fashion-9-regular.jpg', 'Calgary', 'Canada', 9, 5);
+
+  INSERT INTO FAVORITES (PHOTO_ID)
+  VALUES 
+    (1),
+    (5),
+    (40),
+    (36);
